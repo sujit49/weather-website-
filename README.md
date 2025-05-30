@@ -14,10 +14,6 @@ A simple web application built with Flask that allows users to get current weath
 
 ---
 
-## 📸 Preview
-
-> (Optional) Add a screenshot of the app interface here
-
 ---
 
 ## 📁 File Structure
